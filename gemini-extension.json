@@ -1,0 +1,12 @@
+{
+  "name": "lion-solar",
+  "version": "1.0.0",
+  "description": "Read-only facts from Lion Solar Solutions OÜ: PV planning deliverables, how to get started, and drone 3D model requirements. No account needed.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "lion-solar": {
+      "httpUrl": "https://mcp.lion-solar.com/mcp",
+      "timeout": 30000
+    }
+  }
+}
